@@ -18,7 +18,7 @@ const sideDrawer = (props) => {
 				<div className="Logo">
 					<Logo />
 				</div>
-				<nav>
+				<nav style={{ marginTop: '-100px' }}>
 					<NavigationItems />
 				</nav>
 			</div>
