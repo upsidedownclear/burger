@@ -147,7 +147,7 @@ class BurgerBuilder extends Component {
 						purchasable={this.state.purchasable}
 						ordered={this.purchaseHandler}
 						price={this.state.totalPrice}
-					/>{' '}
+					/>
 				</Aux>
 			);
 			orderSummary = (
